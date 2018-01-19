@@ -5,6 +5,6 @@ The usefulness of this project finds its place on giving researchers the ability
 
 As of this stage of the project, me and [@casql](https://github.com/casql) are searching for contributors for the initial design and coding.
 
-If you want to keep it real, just branch us and/or open an issue.
+If you want to keep it real, just branch us and/or open an issue, but check our [contributing guide](https://github.com/lucaspessoapereira/quadane/blob/master/CONTRIBUTING.md) first.
 
 Cheers!
